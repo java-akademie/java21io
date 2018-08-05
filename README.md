@@ -12,6 +12,8 @@ pom.xml angepasst
    
 in GitHub wieder gespeichert (commit/push)
 
+aus Eclipse geloescht
+
 ```
 
 
